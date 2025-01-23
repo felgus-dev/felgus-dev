@@ -1,6 +1,6 @@
 ## ✌️ hello people
 
-I am Felipe Gustavo, a brazilian software developer with 7 years of experience with software development, mainly frontend, based in São Paulo (Brazil).
+I am Felipe Gustavo, a brazilian software developer with 8 years of experience with software development, mainly frontend, based in São Paulo (Brazil).
 
 **currently:**
 
